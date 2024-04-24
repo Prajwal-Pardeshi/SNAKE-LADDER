@@ -17,10 +17,17 @@ The entire code has been written in Python3 . I have used the 👉🏻👉🏻py
 
 
 # IN-GAME :
-SR2 SR3
+
+![80919874-ecbbfb80-8d89-11ea-85e5-7c15c8fe00ed](https://github.com/Prajwal-Pardeshi/SNAKE-LADDER/assets/145054086/2714c471-1b96-4a5a-8ef5-d548d4b81915)
+
+![80919879-efb6ec00-8d89-11ea-8b89-ee57ec6f24be](https://github.com/Prajwal-Pardeshi/SNAKE-LADDER/assets/145054086/2d42b169-13cf-4b88-9fb2-a8c033dc7e0b)
+
+
 
 # GAME-OVER SCREEN :
-SR4
+
+![80919888-03fae900-8d8a-11ea-8456-bbe4d1c825df](https://github.com/Prajwal-Pardeshi/SNAKE-LADDER/assets/145054086/031195cf-774e-4e76-b47b-546e149ef96a)
+
 
 # Starting the Game :
 You can play the game by just running "Snakes and Ladders.py" . But it requires "python" and "pygame" to be installed on your system . To install pygame just enter
